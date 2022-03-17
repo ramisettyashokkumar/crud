@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sravani Jaggarapu",
+      "username": "Sravani",
+      "email": "sravani@gmail.com",
+      "phone": 8309136320
+    },
+    {
+      "name": "santoshuilh;o",
+      "username": "santosh",
+      "email": "santoshrjdhtrd@gmal.kghfyu",
+      "phone": "ghfjth",
+      "website": "bhjjkb",
+      "id": 2
+    },
+    {
+      "name": "ashok",
+      "username": "ramisetty ashok kumar",
+      "email": "ashok@gmail.com",
+      "phone": "9505209760",
+      "website": "ashok.com",
+      "id": 3
+    },
+    {
+      "name": "ashok",
+      "username": "ashok",
+      "email": "ashok@gmail.com",
+      "phone": "98765434567",
+      "website": "asdfgsdfgh",
+      "id": 4
+    },
+    {
+      "name": "ashok",
+      "username": "ashok",
+      "email": "ashok@gmail.com",
+      "phone": "98765434567",
+      "website": "asdfgsdfgh",
+      "id": 5
+    }
+  ]
+}
